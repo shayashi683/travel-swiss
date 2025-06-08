@@ -61,24 +61,43 @@ async function ensureImagesDir() {
 }
 
 async function downloadImage(page, spot, filename) {
+  // Try Unsplash Source API first for quick direct image.
+  const sourceUrl = `https://source.unsplash.com/1600x900/?${encodeURIComponent(spot)}`;
+  try {
+    const res = await fetch(sourceUrl);
+    if (res.ok) {
+      const buffer = await res.arrayBuffer();
+      await fs.writeFile(path.join(imagesDir, filename), Buffer.from(buffer));
+      console.log(`Downloaded (source.unsplash.com) for ${spot}`);
+      return true;
+    }
+  } catch (e) {
+    console.warn(`Unsplash Source failed for ${spot}:`, e);
+  }
+
+  // Fallback to scraping the Unsplash search page via Playwright.
   const url = `https://unsplash.com/s/photos/${encodeURIComponent(spot)}`;
-  console.log(`Fetching image for ${spot} -> ${filename}`);
-  await page.goto(url, { waitUntil: 'domcontentloaded' });
-  // Wait for first figure image
-  await page.waitForSelector('figure img');
-  const src = await page.$eval('figure img', img => img.getAttribute('src') || img.src);
-  if (!src) {
-    console.warn(`Could not find image src for ${spot}`);
+  console.log(`Fallback Playwright fetch for ${spot}`);
+  try {
+    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
+    await page.waitForSelector('figure img', { timeout: 30000 });
+    const src = await page.$eval('figure img', img => img.getAttribute('src') || img.src);
+    if (!src) {
+      console.warn(`Could not extract image src for ${spot}`);
+      return false;
+    }
+    const res = await fetch(src);
+    if (!res.ok) {
+      console.error(`Fetch failed for ${spot}: ${res.status}`);
+      return false;
+    }
+    const buffer = await res.arrayBuffer();
+    await fs.writeFile(path.join(imagesDir, filename), Buffer.from(buffer));
+    return true;
+  } catch (err) {
+    console.error(`Playwright fetch failed for ${spot}:`, err);
     return false;
   }
-  const res = await fetch(src);
-  if (!res.ok) {
-    console.error(`Failed to download image for ${spot}: ${res.status}`);
-    return false;
-  }
-  const buffer = await res.arrayBuffer();
-  await fs.writeFile(path.join(imagesDir, filename), Buffer.from(buffer));
-  return true;
 }
 
 async function updateMarkdown(markdown, mapping) {
