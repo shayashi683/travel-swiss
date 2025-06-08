@@ -1,0 +1,12 @@
+{
+  "name": "travel-swiss-image-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch landmark images for project markdown using Playwright",
+  "type": "module",
+  "scripts": {
+    "fetch-images": "node scripts/fetch_images.js"
+  },
+  "dependencies": {
+    "playwright": "^1.45.0"
+  }
+} 
