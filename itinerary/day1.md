@@ -52,7 +52,7 @@
 - チューリッヒ空港 → Bahnhofstrasse（Paradeplatz 付近）：鉄道＋徒歩 約 16 分（空港駅–Zurich HB 11 分 + 徒歩 5 分）
 - Bahnhofstrasse → リンデンホフの丘：徒歩 約 5 分
 - リンデンホフの丘 → Fraumünster：徒歩 約 5 分
-- Fraumünster → Swiss Chuchi：徒歩 約 4 分 
+- Fraumünster → Swiss Chuchi：徒歩 約 4 分
 
 ### Zurich HB・ホテル・レストラン間の距離
 - Zurich HB → Swiss Chuchi（Hotel Adler 内）：徒歩 約 8 分（650 m）
