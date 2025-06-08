@@ -42,8 +42,8 @@
 - スイスフラン両替 など
 
 ## 写真ギャラリー
-- チューリッヒ空港 ![Zurich Airport](https://images.unsplash.com/photo-twIzCL3YSRI?auto=format&fit=crop&w=800&q=80)
-- Bahnhofstrasse  ![Bahnhofstrasse](https://images.unsplash.com/photo-8RVE8SlJIIE?auto=format&fit=crop&w=800&q=80)
-- リンデンホフの丘 ![Lindenhof Hill View](https://images.unsplash.com/photo-ifOa39xcjNI?auto=format&fit=crop&w=800&q=80)
-- Fraumünster 夜景 ![Fraumünster at Night](https://images.unsplash.com/photo-BOKmoBt7ZTk?auto=format&fit=crop&w=800&q=80)
-- チーズフォンデュ（Swiss Chuchi）![Swiss Cheese Fondue](https://images.unsplash.com/photo-vo7GGTh6sXM?auto=format&fit=crop&w=800&q=80) 
+- チューリッヒ空港 ![Zurich Airport](https://source.unsplash.com/twIzCL3YSRI/800x600)
+- Bahnhofstrasse  ![Bahnhofstrasse](https://source.unsplash.com/8RVE8SlJIIE/800x600)
+- リンデンホフの丘 ![Lindenhof Hill View](https://source.unsplash.com/ifOa39xcjNI/800x600)
+- Fraumünster 夜景 ![Fraumünster at Night](https://source.unsplash.com/BOKmoBt7ZTk/800x600)
+- チーズフォンデュ（Swiss Chuchi）![Swiss Cheese Fondue](https://source.unsplash.com/vo7GGTh6sXM/800x600) 
