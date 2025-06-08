@@ -1,0 +1,10 @@
+{
+  "browser": {
+    "launchOptions": {
+      "headless": true
+    }
+  },
+  "server": {
+    "port": 9320
+  }
+} 
