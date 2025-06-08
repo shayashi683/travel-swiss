@@ -25,14 +25,28 @@ function toFilename(spot) {
 async function extractSpots(markdown) {
   const spotSet = new Set();
   const lines = markdown.split(/\n/);
-  for (const line of lines) {
-    const match = line.match(/^\s*-\s+(.+?)(?:（|\(|$)/); // capture before Japanese parenthesis"（"or "(" or EOL
-    if (match) {
-      // cleanup trailing spaces
-      const spot = match[1].trim();
-      // Skip lines that are clearly sentences rather than spot names (heuristic: contains whitespace & more than 5 words)
-      if (spot.split(/\s+/).length > 6) continue;
-      spotSet.add(spot);
+  let inHighlight = false;
+  for (const lineRaw of lines) {
+    const line = lineRaw.trim();
+    if (line.startsWith('### Day')) {
+      inHighlight = true;
+      continue;
+    }
+    if (inHighlight && line.startsWith('### ')) {
+      inHighlight = false; // reached next section
+    }
+    if (!inHighlight) continue;
+
+    if (line.startsWith('- ')) {
+      const match = line.match(/^-\s+(.+?)(?:（|\(|$)/);
+      if (match) {
+        const spot = match[1].trim();
+        // Skip if spot contains URL or colon (likely not a proper name)
+        if (/https?:\/\//.test(spot) || /:/.test(spot)) continue;
+        // skip long sentences (>5 words)
+        if (spot.split(/\s+/).length > 5) continue;
+        spotSet.add(spot);
+      }
     }
   }
   return Array.from(spotSet);
