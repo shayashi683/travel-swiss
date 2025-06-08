@@ -53,8 +53,3 @@
 - Bahnhofstrasse → リンデンホフの丘：徒歩 約 5 分
 - リンデンホフの丘 → Fraumünster：徒歩 約 5 分
 - Fraumünster → Swiss Chuchi：徒歩 約 4 分
-
-### Zurich HB・ホテル・レストラン間の距離
-- Zurich HB → Swiss Chuchi（Hotel Adler 内）：徒歩 約 8 分（650 m）
-- Zurich HB → MEININGER Hotel Zürich Greencity：S4（Zurich HB → Zürich Manegg）約 7 分＋徒歩 3 分（計 ≈ 10 分 / 4.5 km）
-- MEININGER Hotel Zürich Greencity → Swiss Chuchi：S4 で Zurich HB へ戻り徒歩＝約 20 分 
