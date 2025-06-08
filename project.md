@@ -89,38 +89,38 @@
 ## 日別ハイライト（見どころまとめ）
 
 ### Day 1 – 6/19 (Thu) チューリッヒ
-- Bahnhofstrasse（高級ショッピング街）
-- Lindenhof Hill（旧市街とリマト川を一望）
-- Fraumünster（シャガールのステンドグラス）
-- 旧市街イブニング・ウォーク & Limmat 川サンセットクルーズ
-- ETH テラス夜景（Polybahn でアクセス）
+- Bahnhofstrasse（高級ショッピング街） ![Bahnhofstrasse](images/bahnhofstrasse.jpg)
+- Lindenhof Hill（旧市街とリマト川を一望） ![Lindenhof Hill](images/lindenhof_hill.jpg)
+- Fraumünster（シャガールのステンドグラス） ![Fraumünster](images/fraumnster.jpg)
+- 旧市街イブニング・ウォーク & Limmat 川サンセットクルーズ ![旧市街イブニング・ウォーク & Limmat 川サンセットクルーズ](images/limmat.jpg)
+- ETH テラス夜景（Polybahn でアクセス） ![ETH テラス夜景](images/eth.jpg)
 
 ### Day 2 – 6/20 (Fri) ツェルマット
-- Gornergrat 展望台（マッターホルン 180° パノラマ）
+- Gornergrat 展望台（マッターホルン 180° パノラマ） ![Gornergrat 展望台](images/gornergrat.jpg)
 - Rotenboden → Riffelberg ハイキング & Riffelsee 逆さマッターホルン
 - Sunnegga エリア & Chez Vrony テラスディナー
 
 ### Day 3 – 6/21 (Sat) ツェルマット
-- Riffelsee／Stellisee 早朝マッターホルン日の出撮影
-- Air Zermatt ヘリコプター遊覧（Matterhorn Tour）
-- Furi → Zmutt ハイキング（アルプス牧歌風景 & 吊り橋）
+- Riffelsee／Stellisee 早朝マッターホルン日の出撮影 ![Riffelsee／Stellisee 早朝マッターホルン日の出撮影](images/riffelseestellisee.jpg)
+- Air Zermatt ヘリコプター遊覧（Matterhorn Tour） ![Air Zermatt ヘリコプター遊覧](images/air_zermatt.jpg)
+- Furi → Zmutt ハイキング（アルプス牧歌風景 & 吊り橋） ![Furi → Zmutt ハイキング](images/furi_zmutt.jpg)
 
 ### Day 4 – 6/22 (Sun) グリンデルワルト
-- First Cliff Walk by Tissot（絶壁スカイウォーク）
-- Bachalpsee（"青き鏡湖" とオーバーラント三山のリフレクション）
-- First ゴンドラ空中散歩
+- First Cliff Walk by Tissot（絶壁スカイウォーク） ![First Cliff Walk by Tissot](images/first_cliff_walk_by_tissot.jpg)
+- Bachalpsee（"青き鏡湖" とオーバーラント三山のリフレクション） ![Bachalpsee](images/bachalpsee.jpg)
+- First ゴンドラ空中散歩 ![First ゴンドラ空中散歩](images/first.jpg)
 
 ### Day 5 – 6/23 (Mon) グリンデルワルト
-- Faulhorn 山頂パノラマ
-- First Flyer ジップライン／マウンテンカート／トロッティバイク
-- Grindelwald 村のアイガー北壁ビュー
+- Faulhorn 山頂パノラマ ![Faulhorn 山頂パノラマ](images/faulhorn.jpg)
+- First Flyer ジップライン／マウンテンカート／トロッティバイク ![First Flyer ジップライン／マウンテンカート／トロッティバイク](images/first_flyer.jpg)
+- Grindelwald 村のアイガー北壁ビュー ![Grindelwald 村のアイガー北壁ビュー](images/grindelwald.jpg)
 
 ### Day 6 – 6/24 (Tue) ベルン → チューリッヒ
-- ベルン旧市街 UNESCO 世界遺産散策（Zytglogge, Bundeshaus）
-- Rosengarten（旧市街全景ビュー）& ベアパーク
-- チューリッヒ Bahnhofstrasse ショッピング & チューリッヒ湖畔夕景
+- ベルン旧市街 UNESCO 世界遺産散策（Zytglogge, Bundeshaus） ![ベルン旧市街 UNESCO 世界遺産散策](images/unesco.jpg)
+- Rosengarten（旧市街全景ビュー）& ベアパーク ![Rosengarten](images/rosengarten.jpg)
+- チューリッヒ Bahnhofstrasse ショッピング & チューリッヒ湖畔夕景 ![チューリッヒ Bahnhofstrasse ショッピング & チューリッヒ湖畔夕景](images/bahnhofstrasse.jpg)
 
 ### Day 7 – 6/25 (Wed) チューリッヒ → 帰国
-- Paradeplatz Sprüngli 本店（Luxemburgerli）
-- Bahnhofstrasse Swiss Army Knife 名入れ
+- Paradeplatz Sprüngli 本店（Luxemburgerli） ![Paradeplatz Sprüngli 本店](images/paradeplatz_sprngli.jpg)
+- Bahnhofstrasse Swiss Army Knife 名入れ ![Bahnhofstrasse Swiss Army Knife 名入れ](images/bahnhofstrasse_swiss_army_knife.jpg)
 - Zurich Airport SWISS / ANA Lounge 体験
