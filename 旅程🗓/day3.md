@@ -23,7 +23,7 @@
 - 16:30–18:00 スパ & サウナ（ホテルまたは Mont Cervin Palace Day Spa）
 - 18:30–20:30 ディナー：Schäferstube（ラム料理と地ワイン）
   
-  ![Schäferstube](../images/day3/schaeferstube.jpg)
+  ![Schäferstube](../画像📷/day3/schaeferstube.jpg)
 - 21:00–22:00 ナイトウォーク & 土産ハンティング（Bahnhofstrasse）
 - 22:30 就寝
 
