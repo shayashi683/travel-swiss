@@ -46,12 +46,6 @@
 - 高山での日差し対策（SPF50+ 日焼け止め・サングラス）。
 - Zermatt は車両進入禁止：駅からホテル移動は徒歩または EV タクシー（CHF 15）。
 
-## 写真ギャラリー
-- ツェルマット駅前 ![Zermatt Station](https://source.unsplash.com/HDVhF-WKDBg/800x600)
-- ゴルナーグラート展望台 ![Gornergrat View](https://source.unsplash.com/BQwLcN4gy8Q/800x600)
-- 逆さマッターホルン（Riffelsee）![Riffelsee](https://source.unsplash.com/wW93nYzEJvo/800x600)
-- Chez Vrony テラス ![Chez Vrony](https://source.unsplash.com/tMQ7gJE70RA/800x600)
-
 ### 移動時間の目安
 - ホテル（Zurich Manegg）→ Zurich HB：S4 7 分＋徒歩 3 分
 - Zurich HB → Bern：IC 約 54 分
