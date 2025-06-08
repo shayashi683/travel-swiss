@@ -85,3 +85,42 @@
 
 ## タスク管理
 タスクリストは `task.md` で管理します。
+
+## 日別ハイライト（見どころまとめ）
+
+### Day 1 – 6/19 (Thu) チューリッヒ
+- Bahnhofstrasse（高級ショッピング街）
+- Lindenhof Hill（旧市街とリマト川を一望）
+- Fraumünster（シャガールのステンドグラス）
+- 旧市街イブニング・ウォーク & Limmat 川サンセットクルーズ
+- ETH テラス夜景（Polybahn でアクセス）
+
+### Day 2 – 6/20 (Fri) ツェルマット
+- Gornergrat 展望台（マッターホルン 180° パノラマ）
+- Rotenboden → Riffelberg ハイキング & Riffelsee 逆さマッターホルン
+- Sunnegga エリア & Chez Vrony テラスディナー
+
+### Day 3 – 6/21 (Sat) ツェルマット
+- Riffelsee／Stellisee 早朝マッターホルン日の出撮影
+- Air Zermatt ヘリコプター遊覧（Matterhorn Tour）
+- Furi → Zmutt ハイキング（アルプス牧歌風景 & 吊り橋）
+
+### Day 4 – 6/22 (Sun) グリンデルワルト
+- First Cliff Walk by Tissot（絶壁スカイウォーク）
+- Bachalpsee（"青き鏡湖" とオーバーラント三山のリフレクション）
+- First ゴンドラ空中散歩
+
+### Day 5 – 6/23 (Mon) グリンデルワルト
+- Faulhorn 山頂パノラマ
+- First Flyer ジップライン／マウンテンカート／トロッティバイク
+- Grindelwald 村のアイガー北壁ビュー
+
+### Day 6 – 6/24 (Tue) ベルン → チューリッヒ
+- ベルン旧市街 UNESCO 世界遺産散策（Zytglogge, Bundeshaus）
+- Rosengarten（旧市街全景ビュー）& ベアパーク
+- チューリッヒ Bahnhofstrasse ショッピング & チューリッヒ湖畔夕景
+
+### Day 7 – 6/25 (Wed) チューリッヒ → 帰国
+- Paradeplatz Sprüngli 本店（Luxemburgerli）
+- Bahnhofstrasse Swiss Army Knife 名入れ
+- Zurich Airport SWISS / ANA Lounge 体験
