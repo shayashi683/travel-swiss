@@ -46,7 +46,7 @@
 - Bahnhofstrasse  ![Bahnhofstrasse](https://source.unsplash.com/8RVE8SlJIIE/800x600) (案内: https://www.zuerich.com/en/visit/attractions/bahnhofstrasse)
 - リンデンホフの丘 ![Lindenhof Hill View](https://source.unsplash.com/ifOa39xcjNI/800x600) (案内: https://www.zuerich.com/en/visit/sightseeing/lindenhof)
 - Fraumünster 夜景 ![Fraumünster at Night](https://source.unsplash.com/BOKmoBt7ZTk/800x600) (案内: https://www.zuerich.com/en/visit/attractions/fraumuenster)
-- チーズフォンデュ（Swiss Chuchi）![Swiss Cheese Fondue](https://source.unsplash.com/vo7GGTh6sXM/800x600)  (公式サイト: https://www.hotel-adler.ch/en/restaurant-swiss-chuchi-zuerich)
+- チーズフォンデュ（Swiss Chuchi）![Swiss Cheese Fondue](https://mia-travelista.com/cheese-fondue-swiss-chuchi/)
 
 ### 移動時間の目安
 - チューリッヒ空港 → Bahnhofstrasse（Paradeplatz 付近）：鉄道＋徒歩 約 16 分（空港駅–Zurich HB 11 分 + 徒歩 5 分）
