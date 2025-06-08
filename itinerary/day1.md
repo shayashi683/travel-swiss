@@ -13,8 +13,7 @@
 - 夜: Swiss Chuchi（フォンデュ）
 
 ## 予定（詳細プラン）
-- 18:20–19:30 空港到着 → 入国・荷物受取 → SIM & Zurich Card 購入
-  - SIMは "Sunrise" か "Salt" のカウンターが手早いです。
+- 18:20–19:30 空港到着 → 入国・荷物受取 → Zurich Card 購入
   - 市内交通 24h 乗り放題＋博物館割引の Zurich Card (CHF 29) を購入しておくとお得。
 - 19:30–20:00 鉄道で市内へ移動（Zurich HB まで約 11 分）
   - 空港駅 → チューリッヒ中央駅（HB）は S-Bahn か IC が 5 分おきに出ています。
@@ -40,7 +39,7 @@
 3. スイス名物（フォンデュ／ソーセージ／チョコ）を 3 時間でコンプリート。
 
 ## メモ
-- スイスフラン両替、SIM 受取など
+- スイスフラン両替 など
 
 ## 写真ギャラリー
 - チューリッヒ空港 ![Zurich Airport](https://images.unsplash.com/photo-twIzCL3YSRI?auto=format&fit=crop&w=800&q=80)
