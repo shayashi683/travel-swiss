@@ -38,14 +38,3 @@
 5. Pull Request / Issue など GitHub の標準機能でタスク管理を行う場合は、タイトルに日付と内容を明記してください。
 
 > 🔖 **メモ**: Notion でのタスク管理も並行して行っています。リンクは `project.md` 内の該当セクションを参照してください。
-
-### 開発用ツール（Playwright MCP）
-旅行リポジトリとは別に `tools/` ディレクトリを切り、Playwright MCP サーバーを起動できるようにしています。
-
-```bash
-cd tools
-npm install        # 依存パッケージ (@playwright/test, @playwright/mcp) をインストール
-npm run mcp        # http://localhost:9320 で MCP サーバーが起動
-```
-
-> MCP クライアント（Cursor など）側で `http://localhost:9320/sse` を登録すれば、`browser_*` 系ツールが使えます。
